@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seungjintimemanagemenet",
+  "private_key_id": "0bf0d783115fd70e3d434b45fe4d91524c5d4c33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+E9qpwvpPqnQX\nQyIP9kfqN019K0vtD3WSBfLV8j+7D2rTIzdOdbfKDDITwyX5bUyQvRVEZ9rCgbVh\nIzMzYINVE5x1EJzmmoa23SDKeE+wg5WKCIb9/DWcowRFbjVgyruoEfWDwZn65j/Z\n49ytcWZux89V8sksRv6Qyz7xe3VMN0BjPUYMkhsI+3dXorr1q6fBbvKtcv/duSy7\nIrVMzsVDF33fvdAXQ5Vt5vqsAPt75GKuut6CCLABbEqozCTY/6Uf3CIKInm/B1Y6\nyi+2wQJgTQMuL0NgtGFCYHBPI60uy4WGAwyJfEJmuTc1PyZgJhhNZa7fhtZJ15CM\nOtW6Uk2ZAgMBAAECggEADeQaj1yB+Y9983NDCoKXp9zJy3N+FYGTOIw5vnv5P1z1\nlB+XO6MrvtbcVAhnfo6H0W4YH0stuBhNnp85bzBG+NE5lm6T4OB7JuMLMfDP9hjv\ntUpBP0+OxXc+aSqQORYn17UUScA81hK8qNpXts86Sq9Mjj3ziMpZcVCBNZmtrVee\nCo86qXVpbNxiw2isxfchLUR+/t6/erwOGmqB5jvQ1sBp4nwZdsdnAm+oBk64f1LL\nucmPVYAWOFnnvIRF8eogsvS7bb/WcfkfK8HQ6w9JEnzBcTopiTgFCGBCsqicf0Y9\ndL4aCE5mkyXT8aOmzAit1x82Wy86bsIzp/8FHT+W5wKBgQDsCye7nZpkSUzaQnxF\n/p66AJmvewp56OcXKY2oLaBmDKfVXYmV2FwVysPqHLKmdcd6+psMLkfvYw00gNQv\nCQgyQRtHyU2AaihATOLaThNLInNa8l0AZii24Ph/TkUJHkmjzdtpS+yFwMglCW2S\nPeKv0TRLVZGm9xqs8isRXsqt4wKBgQDOJdOSQP8YoNn0gvC6ylFdOrC97QRP5G+w\n5YvypqqBmrICatjbZ50iRK53DXZSxs/oSYCj5wM7lZJ5atxvdIJi9tYa7dYPLRL6\naK343c3OPMOBe7BVWF/gWBcKXq9h7QfJ/QW8SW5WPCRg2gjgWA/xOLWLtlf7PJNW\nBzls87fvUwKBgQCICR3LCNeT+JKsLykEBexgcjwgYB73h3y3YqFbTYBlj+GiHBhR\nHbJkdMlYQVXMjZB7lbaJ3JpkoodXvO+Mc/4fSFp6ks9xtLyh4i3Tdq+z25Tz0z46\nHqZUT2+nnuo2iRgTqW5MTw9vPl2aysY1RClC/qTOze/1c/ARwDeF+UWB1QKBgDT2\nCN3pLuBf6r7jqP8EHVUrT97rdpEj6gHzZznm0aVMXfE7DA2KGBeGt5/EaKKpix5t\nS8xP/EehjKj+6DUGJL1SFv2CHt11QgvtOszWBxq2B7BLW6kBdFhJqVmzq7En2Tlu\ndLvDzcH/34S2X1NrrGTXoeSL6xyTmnKeloVEM/wbAoGAbmK6LJxOFL/BlhsPLGxI\nUhpU2d6Dn58XJlFi+y/d0BJBWAAlD3OsUUKinaW2JMsLAkZkHfd8hNSjazlb1AQJ\nNP80O75qRIPYtn4oRpQ31LH25j8eFkbJ96uOx+2K8Ljh8GuiID6Y0wGCQnOHqUXy\npQXxF3x3A0jUsygjDDrpg08=\n-----END PRIVATE KEY-----\n",
+  "client_email": "seungjinlee1125@seungjintimemanagemenet.iam.gserviceaccount.com",
+  "client_id": "115736671813216267992",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seungjinlee1125%40seungjintimemanagemenet.iam.gserviceaccount.com"
+}
