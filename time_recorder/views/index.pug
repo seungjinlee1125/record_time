@@ -1,5 +1,14 @@
 extends layout
 
 block content
-  h1= title
+  h1 #{title}
+  h2 hello #{title}
   p Welcome to #{title}
+  form(action=post)
+    div.form-group
+      label(for='time') Time:
+      input#name.form-control(type='text', value= moment().format("YY-MM-DD hh:mm") ,name='time')
+    div.form-group
+      label(for='name') Content:
+      input#name.form-control(type='text', placeholder='type your content here' name='content')
+    button.btn.btn-primary(type='submit') Record!
