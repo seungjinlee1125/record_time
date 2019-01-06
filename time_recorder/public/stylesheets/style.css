@@ -136,6 +136,7 @@ time {
 }
 .dial-container.dial-container--hh {
   width: 120px;
+  margin-right: 5px;
 }
 time span {
   width: 65px;
@@ -240,4 +241,8 @@ time span:last-child {
 .submit {
   outline: none;
   border: none;
+}
+
+.dial-container.dial-container--m {
+  margin-right: 5px;
 }
